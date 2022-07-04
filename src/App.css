@@ -1,0 +1,16 @@
+
+.App {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.create_char {
+    width: 350px;
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.create_char-points-wrapper {
+    height: 50px;
+    border: 1px solid red;
+}
